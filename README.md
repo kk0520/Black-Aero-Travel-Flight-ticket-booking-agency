@@ -1,0 +1,2 @@
+# Black-Aero-Travel-Flight-ticket-booking-agency
+• Developed a MVC based web application for the CRUD operations in the field of flight ticket booking and an airport’s data management with three different kinds of user accesses providing an easy-to-use interface for them. • Worked on technologies such as MySQL for the database, and Java using the Spring Boot framework to develop the back-end of the application, and Thymeleaf for the front-end with HTML5 and CSS. • Also developed unit, integration and system test cases using Mockito,mock bean, Selenium IDE.
