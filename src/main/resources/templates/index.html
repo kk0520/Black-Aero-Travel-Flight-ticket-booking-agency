@@ -1,0 +1,19 @@
+<!-- Edited by Raunak Kharbanda -->
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/master-page}">
+
+<body>
+<th:block layout:fragment="content">
+
+    <h2>Welcome to  Black Air International</h2>
+    <p>
+        Black Air International is an airline tickets reservation company. The company has numerous branches all over the world. 
+        In the past, BAI used to handle all its flight operations manually, but since the population of flyers has increased over the years, it had become a tedious job to do this manually.
+        So, the company shifted its management to a small scale Java based application, to help customers get a flight ticket booked or cancelled in coordination with their travel agency.
+    </p>
+    <img th:src="@{/img/logo.jpeg}" style="width:1140px"/>
+</th:block>
+</body>
+</html>
